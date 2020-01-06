@@ -3,5 +3,3 @@ def tl_function:
   # Your code here
 
   print("this is more boilerplate")
-  
-  print("whoops, forgot a line")
