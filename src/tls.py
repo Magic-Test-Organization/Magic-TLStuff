@@ -3,3 +3,10 @@ def tl_function:
   # Your code here
 
   print("this is more boilerplate")
+  
+  print("lets see what happens!")
+  
+  print("This should appear")
+
+  print("if the server is running ")
+  
