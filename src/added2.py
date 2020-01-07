@@ -1,2 +1,2 @@
-WARNING:  MISMATCHED START/END.  INVALID FILE#second addded file
+WARNING:  MISMATCHED START/END.  INVALID FILE\n#second addded file
 
