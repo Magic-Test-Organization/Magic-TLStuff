@@ -1,12 +1,12 @@
-Error, two Starts in a row.  Second start on line 40
+Error, two Starts in a row.  Second start on line 41
+Bad token found on line 21
 Bad token found on line 20
-Bad token found on line 19
-Error, two ends in a row or end before start on line 11
+Error, two ends in a row or end before start on line 12
 #second addded file it's the elseif ,,,,now? it works
 #this will be different and will update
 
 #test refactor1bc
-#test refactor2b
+#test 2 plus conflict
 
 # maybe it can't be broken?
 
